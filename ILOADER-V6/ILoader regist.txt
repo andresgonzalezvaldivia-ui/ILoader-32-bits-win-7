@@ -1,0 +1,6 @@
+[11:01:52] 1. iloader 2.4.1 arrancando (exe: Some("C:\\Users\\andre\\Downloads\\ILOADER-V6\\ILOADER-V6\\iloader.exe"))
+[11:01:52] 2. AVISO: no encontre la carpeta WebView2; se usara el WebView2 instalado (si hay)
+[11:01:52] 3. crypto listo
+[11:01:52] 4. creando ventana y WebView2...
+[11:01:52] 5. ventana creada, configurando app...
+[11:01:52] OK: la ventana cargo la pagina (http://tauri.localhost/)
